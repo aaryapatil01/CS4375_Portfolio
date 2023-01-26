@@ -1,4 +1,5 @@
 # CS4375_Portfolio
 This is a portfolio for my CS 4375 (Machine Learning) class.
 
-I'm just testing whether this change is working.
+## Program 1
+This is my [code][Sample_code.pdf] and this is the [description][Sample_doc.pdf].
