@@ -5,12 +5,8 @@ This is a portfolio for my CS 4375 (Machine Learning) class.
 This is our intro assignment.
 
 You can access the paper [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Overview_of_ML_Aarya_Patil.pdf).
-## Portfolio Assignment 0: Getting Started
-This is our intro assignment. 
-
-You can access the paper [here](https://github.com/aaryapatil01/CS4395_Portfolio/blob/main/Overview_of_NLP_Aarya_Patil.pdf).
 
 ## Portfolio Component 1: Data Exploration
-This is our first assignment. We had to code statiscal functions from R in C++ and apply them to a CSV file.
+This is our first assignment. We had to code statistical functions from R in C++ and apply them to a CSV file.
 
 You can access my code [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/main.cpp) and the document explaining it more in depth [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%201%20(Data%20Exploration)%20Explanation.pdf).
