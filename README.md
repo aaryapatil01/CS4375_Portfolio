@@ -14,4 +14,4 @@ You can access my code [here](https://github.com/aaryapatil01/CS4375_Portfolio/b
 ## Portfolio: Linear Models (Assignment 2)
 This is our second assignment. We had to work with a partner to generate Regression and Classification RMD notebooks using 2 datasets of our choice. 
 
-You can access our RMD notebook for Regression [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%202/ML_Regression.pdf) and the one for Classification [here] (https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%202/ML_Classification.pdf).
+You can access our RMD notebook for Regression [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%202/ML_Regression.pdf) and the one for Classification [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%202/ML_Classification.pdf).
