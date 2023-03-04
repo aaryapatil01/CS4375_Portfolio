@@ -15,3 +15,8 @@ You can access my code [here](https://github.com/aaryapatil01/CS4375_Portfolio/b
 This is our second assignment. We had to work with a partner to generate Regression and Classification RMD notebooks using 2 datasets of our choice. 
 
 You can access our RMD notebook for Regression [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%202/ML_Regression.pdf) and the one for Classification [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%202/ML_Classification.pdf).
+
+## Portfolio Component: ML Algorithms from Scratch (Assignment 3)
+This is our third assignment. We had to work with a partner to create 2 ML algorthims from scratch in C++. 
+
+You can access our code for the logistic regression algorithm [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%203/Logistic_Regression.cpp) and the code for the Naïve Bayes algorithm [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%203/Naive_Bayes.cpp). You can access the document containing the output and analysis of the program [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%203/ML_Algorithms_From_Scratch.pdf).
