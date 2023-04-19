@@ -30,3 +30,8 @@ You can access my RMD notebook [here](https://github.com/aaryapatil01/CS4375_Por
 This is our fifth assignment. We were given a CSV file to read to compare experience in R versus sklearn. 
 
 You can access my python notebook [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%205/ML_Python_ML_with_sklearn.pdf).
+
+## Portfolio Assignment: Image Classification (Assignment 6)
+This is our sixth assignment. We had to choose an image classification data set to train and evaluate.
+
+You can access my python notebook detailing the results [here](https://github.com/aaryapatil01/CS4375_Portfolio/blob/main/Assignment%206/Image_Classification.pdf).
